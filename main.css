@@ -1,0 +1,25 @@
+h4 {
+    text-align: center;
+  }
+  
+  h5 {
+    text-align: center;
+  }
+  
+  .footercont {
+    background-color: aquamarine;
+  }
+  
+  .headerhome {
+    background-color: aquamarine;
+    text-align: center;
+  }
+  
+  .cardcontact {
+    background-color: azure;
+    text-align: center;
+  }
+  
+  .homeimg {
+    width: 100%;
+  }
